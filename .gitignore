@@ -1,4 +1,6 @@
 node_modules/
-.idea
-.vscode
+.idea/
+.vscode/
 .env*.local
+package-lock.json
+node_modules/
